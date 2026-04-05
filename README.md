@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile!!!!
+# Welcome to My GitHub Profile!
  Hello, I'm Swati Kanwar!
 
 ### About Me
