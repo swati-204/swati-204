@@ -30,6 +30,6 @@ I’m a passionate tech student with a strong interest in Web development. Curre
 
 ### 📫 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/swati-kanwar-264540228/)
-- [Email](mailto:swatikanwar1300@gmail.com)
+- [Email](mailto:swatikanwar1300@gmail.com )
 
 
