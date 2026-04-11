@@ -12,7 +12,7 @@ I’m a passionate tech student with a strong interest in Web development. Curre
 - **30-Day Web Development Sprint** – Created 30 mini-projects in HTML, CSS, and JavaScript
 
 ### 🛠️ Skills
-- **Languages**: JavaScript, HTML, CSS, C, C++, PHP.
+- **Languages**: JavaScript, HTML, CSS, C, C++, PHP, JAVA 
 - **Frameworks/Libraries**: React, Node.js, Bootstrap.
 - **Tools**: Git, GitHub, Postman, VS Code.
 
