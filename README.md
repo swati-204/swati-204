@@ -4,7 +4,7 @@
 ### About Me
 I’m a passionate tech student with a strong interest in Web development. Currently pursuing my MCA. I’m constantly learning and building projects to expand my skills and contribute to meaningful work.
 
-- Actively contributing to open-source projects and participating in coding challenges
+- I'm actively contributing to open-source projects and participating in coding challenges
 
 ### 🏆 Achievements
 - **Postman API Fundamentals Badge** – Completed the Postman API challenge with certification
