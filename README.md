@@ -1,5 +1,5 @@
 # Welcome to My GitHub Profile !
- Hello, I'm Swati Kanwar!
+ Hi, I'm Swati Kanwar!
 
 ### About Me
 I’m a passionate tech student with a strong interest in Web development. Currently pursuing my MCA. I’m constantly learning and building projects to expand my skills and contribute to meaningful work.
